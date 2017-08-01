@@ -1,0 +1,202 @@
+body{
+            width: 100%;
+            height: 100%
+        }
+        *{
+            margin: 0;
+            padding: 0;
+            font-family: 'OpenSans-Regular';;
+            box-sizing: border-box;
+        }
+        div{
+            display: block;
+        }
+        a{
+            text-decoration: none;
+            color:#FFFFFF;
+        }
+
+        .header{
+            background-color: #f8f8f8;
+
+        }
+        .container{
+            height: 120px;
+            width: 1170px;
+            margin: 0 auto;
+        }
+        .header-top1{
+            height: 50px;
+        }
+        .header-top{
+            height: 100px;
+        }
+        .logo{
+            float: left;
+        }
+        .logo a{
+            display: block;
+            font-size: 2em;
+            font-family: 'Buda-Light';
+            color: #994868;
+            font-weight: 900;
+            text-transform: capitalize;
+        }
+        .logo span{
+            color: #C07C3F;
+            font-size: 0.8em;
+        }
+        .content{
+            width:100%;
+            height: 900px;
+        }
+        .content-top{
+             height: 350px;
+             width:100%;
+             background-color: #ffffff;
+         }
+        .nav-top{
+            height: 350px;
+            width: 80%;
+            margin: 0px auto;
+            background-color: #994868;
+        }
+        .nav-top-img{
+            width: 250px;
+            height: 100px;
+            margin-left: 100px;
+            margin-top: 50px;
+        }
+        .nav-top > p{
+            margin-top: 25px;
+            margin-left: 120px;
+        }
+        .flv{
+            float: right;
+            margin-top: 20px;
+            margin-right: 100px;
+        }
+        .school-logo{
+            float: left;
+        }
+        .school-logo >p{
+            margin-top: 10px;
+            margin-left: 130px;
+            color: #FFFFFF;
+        }
+        #content{
+            width: 80%;
+            height: 800px;
+            background-color: #fffefa;
+            margin: 0px auto;
+            padding-top: 15px;
+
+        }
+        .content-left{
+            width: 68%;
+            height: 100%;
+            background-color: #e3e3e3;
+            float: left;
+        }
+        .content-right{
+            width: 25%;
+            height: 100%;
+            background-color: #e3e3e3;
+            float:right;
+            margin-right: 50px;
+        }
+        h3{
+            margin-top: 20px;
+            margin-left: 10px;
+            margin-bottom: 10px;
+        }
+        .text-p{
+            margin-top: 20px;
+           width: 100%;
+            height: 20%;
+        }
+        .text-p > p{
+            font-size: 19px;
+            margin-left: 20px;
+            margin-right: 20px;
+        }
+        .information{
+            width: 100%;
+            height: 250px;
+            background-color: #e3e3e3;
+        }
+        .mat{
+            width: 100%;
+            height: 120px;
+            background-color: #994868;
+            color: #FFFFFF;
+        }
+        .mat-left{
+            float: left;
+            margin-top: 50px;
+            margin-left: 50px;
+        }
+        .mat-right{
+            float: right;
+            margin-right: 50px;
+            margin-top: 45px;
+        }
+        .butt{
+            width: 80%;
+            height: 50px;
+            color: #FFFFFF;
+            font-size: 20px;
+            font-weight: 600;
+            background-color: #994868;
+            margin-top: 10px;
+            margin-left: 50px;
+        }
+        .information1{
+            margin-top: 50px;
+            background-color: #994868;
+        }
+        hr{
+        color:#FFFFFF;
+        }
+        h3{
+            text-align: center;
+            color: #FFFFFF;
+        }
+        .form,.subm{
+            width: 80%;
+            margin: 0px auto;
+        }
+        textarea{
+            width: 100%;
+        }
+      .subm{
+       width: 80%;
+     margin: 0px auto;
+      }
+
+        .submit{
+            width: 50%;
+            height: 25px;
+            margin-top: 10px;
+            margin-left: 65px;
+        }
+        .context{
+            width: 80%;
+            margin: 0px auto;
+            padding-top: 20px;
+            padding-bottom: 50px;
+        }
+.footer{
+    background-color: #994868 ;
+    width: 100%;
+}
+.footer-container{
+    width: 1170px;
+    height: 100px;
+    margin: 0 auto;
+}
+.footer-container >p{
+    padding-top: 40px;
+    text-align: center;
+    color: #FFFFFF;
+}
